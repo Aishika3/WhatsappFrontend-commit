@@ -1,0 +1,23 @@
+import React, { useState } from 'react';
+import './styles.css'
+
+const Documentation = () => {
+	
+
+	return (
+		<div className='shadow-lg border-2 border-PrimaryCyan md:w-[50%] sm:w-[80%] m-auto rounded-lg'>
+			<h1 className='doc-header text-3xl text-bold text-PrimaryCyan'>Documentation</h1>
+            <p className='doc p-lg'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Blandit libero volutpat sed cras ornare arcu dui vivamus arcu. At urna condimentum mattis pellentesque. Congue quisque egestas diam in arcu cursus euismod. Sed sed risus pretium quam vulputate dignissim. Lacus suspendisse faucibus interdum posuere lorem ipsum. Potenti nullam ac tortor vitae purus faucibus ornare suspendisse sed. Ullamcorper eget nulla facilisi etiam dignissim diam quis. Proin libero nunc consequat interdum varius sit amet. Euismod in pellentesque massa placerat. Interdum velit euismod in pellentesque massa placerat duis ultricies lacus. Non sodales neque sodales ut etiam sit amet nisl purus. Non enim praesent elementum facilisis leo vel fringilla est. Risus quis varius quam quisque id. Commodo viverra maecenas accumsan lacus vel facilisis volutpat est. Risus ultricies tristique nulla aliquet enim. Fames ac turpis egestas maecenas pharetra.
+
+Integer eget aliquet nibh praesent tristique magna sit. Odio ut enim blandit volutpat maecenas volutpat blandit. Pellentesque pulvinar pellentesque habitant morbi tristique. Arcu non sodales neque sodales ut etiam sit. In cursus turpis massa tincidunt dui ut. Ac ut consequat semper viverra nam. Tempor orci eu lobortis elementum nibh tellus molestie nunc. Sed viverra tellus in hac habitasse. In pellentesque massa placerat duis ultricies lacus sed turpis tincidunt. Neque viverra justo nec ultrices dui sapien eget mi proin. At tellus at urna condimentum mattis. Nulla pellentesque dignissim enim sit amet venenatis urna.
+
+Sagittis eu volutpat odio facilisis mauris sit. Odio pellentesque diam volutpat commodo sed. Lorem donec massa sapien faucibus et molestie. Tristique nulla aliquet enim tortor. Elit ut aliquam purus sit amet. Aenean sed adipiscing diam donec. Leo duis ut diam quam nulla. Lectus sit amet est placerat in egestas erat. Et malesuada fames ac turpis egestas maecenas pharetra convallis posuere. Amet venenatis urna cursus eget. Id semper risus in hendrerit gravida rutrum quisque. Vulputate eu scelerisque felis imperdiet proin. Lacus laoreet non curabitur gravida arcu ac tortor dignissim convallis. Eget magna fermentum iaculis eu non diam phasellus vestibulum. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit. Felis eget nunc lobortis mattis. Fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis. Quam adipiscing vitae proin sagittis nisl.
+
+Sed vulputate odio ut enim blandit. Nunc scelerisque viverra mauris in aliquam. Feugiat in fermentum posuere urna nec tincidunt praesent. Fames ac turpis egestas maecenas pharetra convallis posuere morbi leo. Vehicula ipsum a arcu cursus vitae. Malesuada fames ac turpis egestas integer. Nulla malesuada pellentesque elit eget gravida. Turpis massa sed elementum tempus egestas sed sed. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. Egestas purus viverra accumsan in nisl nisi scelerisque eu. Montes nascetur ridiculus mus mauris vitae ultricies leo. Amet massa vitae tortor condimentum. Elementum nibh tellus molestie nunc non. Tempus imperdiet nulla malesuada pellentesque elit eget. Id velit ut tortor pretium viverra suspendisse potenti nullam. Montes nascetur ridiculus mus mauris vitae. Dolor sit amet consectetur adipiscing elit ut aliquam purus sit. Fames ac turpis egestas integer. Sit amet massa vitae tortor condimentum lacinia quis vel eros.
+
+Est velit egestas dui id ornare arcu odio ut sem. Consequat nisl vel pretium lectus quam id. Sagittis id consectetur purus ut faucibus pulvinar elementum integer enim. Quis eleifend quam adipiscing vitae proin. Justo laoreet sit amet cursus. Dui faucibus in ornare quam viverra orci sagittis eu. Sapien pellentesque habitant morbi tristique senectus et netus. Egestas erat imperdiet sed euismod nisi porta. A diam sollicitudin tempor id eu nisl nunc mi. Eu nisl nunc mi ipsum faucibus. Dui nunc mattis enim ut tellus elementum sagittis vitae. Morbi non arcu risus quis varius quam quisque. In ornare quam viverra orci.</p>
+		</div>
+	);
+}
+
+export default Documentation;
